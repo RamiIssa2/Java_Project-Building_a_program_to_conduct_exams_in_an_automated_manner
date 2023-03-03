@@ -1,0 +1,56 @@
+[INFO, 12-12-2021 09:39:06]: A Question named: (Question 1) has been added successfully
+
+[INFO, 12-12-2021 09:39:40]: A Question named: (Question 2) has been added successfully
+
+[INFO, 12-12-2021 09:40:05]: An Exam has been taken by student named: (Rami) with a score: (100/100)
+
+[INFO, 12-12-2021 09:46:36]: A Question named: (Question 3) has been added successfully
+
+[INFO, 12-12-2021 09:47:34]: A Question named: (Question 4) has been added successfully
+
+[INFO, 12-12-2021 09:48:31]: A Question named: (Question 5) has been added successfully
+
+[INFO, 12-12-2021 09:49:13]: A Question named: (Question 6) has been added successfully
+
+[INFO, 12-12-2021 09:50:01]: An Exam has been taken by student named: (Sami) with a score: (100/100)
+
+[INFO, 12-12-2021 09:50:36]: A Question named: (Question 7) has been added successfully
+
+[INFO, 12-12-2021 09:51:40]: A Question named: (Question 8) has been added successfully
+
+[INFO, 12-12-2021 09:52:13]: An Exam has been taken by student named: (Ahmad) with a score: (25/100)
+
+[INFO, 12-12-2021 09:53:37]: A Question named: (Question 9) has been added successfully
+
+[INFO, 12-12-2021 09:54:30]: A Question named: (Question 10) has been added successfully
+
+[INFO, 12-12-2021 09:55:07]: An Exam has been taken by student named: (Rami) with a score: (77/100)
+
+[INFO, 12-12-2021 09:55:44]: An Exam has been taken by student named: (Ahmed) with a score: (80/100)
+
+[INFO, 12-12-2021 09:56:58]: A Question named: (Question 11) has been added successfully
+
+[INFO, 12-12-2021 09:57:56]: A Question named: (Question 12) has been added successfully
+
+[INFO, 12-12-2021 09:58:31]: An Exam has been taken by student named: (Maram) with a score: (90/100)
+
+[INFO, 12-12-2021 09:58:55]: An Exam has been taken by student named: (Sami) with a score: (100/100)
+
+[INFO, 12-12-2021 09:59:26]: An Exam has been taken by student named: (Rami) with a score: (100/100)
+
+[ERROR, 12-12-2021 10:01:24]: Question number 6 is a Duplicated Question 
+
+[ERROR, 12-12-2021 10:01:24]: Question number 9 has an Invalid Question Format
+
+[ERROR, 12-12-2021 10:01:24]: Question number 12 has Duplicated Options
+
+[ERROR, 12-12-2021 10:01:24]: Question number 15 has an Invalid Question Format
+
+[ERROR, 12-12-2021 10:02:10]: Question number 6 is a Duplicated Question 
+
+[ERROR, 12-12-2021 10:02:10]: Question number 9 has an Invalid Question Format
+
+[ERROR, 12-12-2021 10:02:10]: Question number 12 has Duplicated Options
+
+[ERROR, 12-12-2021 10:02:10]: Question number 15 has an Invalid Question Format
+

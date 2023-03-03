@@ -1,0 +1,1 @@
+There is an example of a Question Bank and Logs in the Example Folder

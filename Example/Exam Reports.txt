@@ -1,0 +1,48 @@
+Student Name: Rami
+Exam Difficulty: EASY
+Number of Questions: 1
+Exam Genertor: Basic
+Exam Score: 100/100
+%%
+Student Name: Sami
+Exam Difficulty: HARD
+Number of Questions: 2
+Exam Genertor: Basic
+Exam Score: 100/100
+%%
+Student Name: Ahmad
+Exam Difficulty: MEDIUM
+Number of Questions: 2
+Exam Genertor: Basic
+Exam Score: 25/100
+%%
+Student Name: Rami
+Exam Difficulty: HARD
+Number of Questions: 3
+Exam Genertor: Basic
+Exam Score: 77/100
+%%
+Student Name: Ahmed
+Exam Difficulty: EASY
+Number of Questions: 4
+Exam Genertor: Basic
+Exam Score: 80/100
+%%
+Student Name: Maram
+Exam Difficulty: MEDIUM
+Number of Questions: 4
+Exam Genertor: Basic
+Exam Score: 90/100
+%%
+Student Name: Sami
+Exam Difficulty: EASY
+Number of Questions: 4
+Exam Genertor: Basic
+Exam Score: 100/100
+%%
+Student Name: Rami
+Exam Difficulty: HARD
+Number of Questions: 4
+Exam Genertor: Random
+Exam Score: 100/100
+%%
